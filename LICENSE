@@ -29,3 +29,8 @@ conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Media.
+
+External Software Licences:
+* GreenSock, Inc. (Draggable, TweenLite, CSSPlugin) using licence https://greensock.com/standard-license/.
+* Goldfire Studios, Inc. (Howler) using MIT licence https://github.com/goldfire/howler.js#license
+
