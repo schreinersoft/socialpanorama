@@ -1,0 +1,48 @@
+#ctrBox
+{
+    position:  absolute;
+    border:    2px solid #888888;    
+    top:       5%;
+    left:      5%;
+    bottom:    5%;
+    right:     5%;    
+}
+#loaderBox
+{
+    position:  absolute;
+    border:    0px;    
+    top:       5%;
+    left:      5%;
+    bottom:    5%;
+    right:     5%;    
+}
+#ctrBox svg
+{
+    height:    100%;
+    width:     100%;
+}
+.svgButton :hover
+{
+fill:#CC8833;
+}
+.svgButton
+{
+cursor: cell;
+pointer-events:visible;
+}
+polygon
+{
+pointer-events:visible;
+vector-effect:non-scaling-stroke;
+}
+circle
+{
+pointer-events:visible;
+vector-effect:non-scaling-stroke;
+}
+text
+{
+pointer-events:visible;
+}
+
+
